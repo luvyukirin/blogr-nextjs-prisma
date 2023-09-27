@@ -66,7 +66,7 @@ const Post: React.FC<PostProps> = (props) => {
           )
         }
       </div>
-      <style jsx>{CSS}</style>
+      <style jsx>{css}</style>
     </Layout>
   );
 };
